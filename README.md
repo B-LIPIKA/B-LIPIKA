@@ -24,7 +24,7 @@
   <a href="https://github.com/B-LIPIKA/leetcode_learning">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://b-lipika.github.io/Portfolio/" target="_blank">
+  <a href="https://b-lipika.github.io/Lipika-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:Kulal123lipika@gmail.com">
