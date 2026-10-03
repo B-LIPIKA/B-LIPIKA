@@ -1,205 +1,129 @@
 <div align="center">
 
-<!-- Typing Header Banner -->
+<!-- Clean Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=200&section=header&text=B.%20LIPIKA&fontSize=50&fontAlignY=36&desc=Machine%20Learning%20Engineer%20%7C%20Industrial%20AI%20%7C%20Patent%20Holder&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%" alt="Header" />
+
+<!-- Typing Subtitle -->
 <a href="https://github.com/B-LIPIKA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+B.+Lipika+%F0%9F%91%8B;Machine+Learning+Engineer;Industrial+AI+%7C+Time-Series+%7C+Agentic+AI;Indian+Utility+Patent+Holder+%F0%9F%8F%85;Welcome+to+my+Profile!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Machine+Learning+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Industrial+AI+%26+Time-Series+Forecasting+%F0%9F%93%88;LangGraph+Autonomous+Agent+Workflows+%F0%9F%A4%96;Indian+Utility+Patent+Holder+(No.+202541061616)+%F0%9F%8F%85;Daily+DSA+%26+LeetCode+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <b>Machine Learning Engineer specializing in Industrial AI, Time-Series Forecasting, and Agentic AI Workflows</b>
-</p>
+<br/><br/>
 
-<!-- ======================= RECRUITER CTA SECTION ======================= -->
+<!-- ========================= QUICK ACTION BUTTONS ========================= -->
 <p align="center">
   <a href="https://raw.githubusercontent.com/B-LIPIKA/B-LIPIKA/main/Lipika_B_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Resume-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
   <a href="https://github.com/B-LIPIKA/B-LIPIKA/blob/main/Lipika_B_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_View_CV_(PDF)-E02424?style=for-the-badge&logo=googledocs&logoColor=white" alt="View CV" />
+    <img src="https://img.shields.io/badge/%F0%9F%91%81%EF%B8%8F_View_CV-E02424?style=for-the-badge&logo=googledocs&logoColor=white" alt="View CV" />
   </a>
   <a href="https://linkedin.com/in/lipika2004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/B-LIPIKA/LeetCode-Solutions">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://b-lipika.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:Kulal123lipika@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Profile Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=B-LIPIKA&label=Profile%20Visitors&color=6366f1&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Patent_Holder-202541061616-gold?style=flat-square&logo=academia" alt="Patent" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Indian_Patent-202541061616-f59e0b?style=flat-square&logo=academia" alt="Patent" />
+  <img src="https://img.shields.io/badge/Role-AIML_Trainee_@_Tiny_Prism_Labs-6366f1?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Education-B.E._(CGPA_8.25/10)-10b981?style=flat-square" alt="Education" />
+  <img src="https://komarev.com/ghpvc/?username=B-LIPIKA&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### 💼 Recruiter Quick Glance
+### 💫 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>🎯 Current Role:</b> AIML Trainee @ Tiny Prism Labs, Manipal<br/>
-      <b>🎓 Education:</b> B.E. in Information Science & Engg (CGPA: <b>8.25 / 10</b>)<br/>
-      <b>🏛️ Institute:</b> Canara Engineering College, Mangalore (VTU) [2022 – 2026]<br/>
-      <b>📍 Location:</b> Karnataka, India
-    </td>
-    <td width="50%">
-      <b>📜 Patent:</b> Indian Utility Patent No. <code>202541061616</code> (AgriFlow)<br/>
-      <b>🏆 Awards:</b> 2nd Runner-Up, VTU Mini Project Competition<br/>
-      <b>📜 Certifications:</b> Google Data Analytics (Coursera) • Java (NPTEL)<br/>
-      <b>📬 Contact:</b> <a href="mailto:Kulal123lipika@gmail.com">Kulal123lipika@gmail.com</a> | +91 96861 67453
-    </td>
-  </tr>
-</table>
+- 💼 **Current Position:** AIML Trainee at **Tiny Prism Labs, Manipal** (Feb 2026 – Present), developing industrial analytics and time-series agents.
+- 📜 **Patent Holder:** Awarded **Indian Utility Patent No. 202541061616** for the **AgriFlow** smart irrigation system.
+- 🧠 **Technical Focus:** Industrial AI, Time-Series Foundation Models (**IBM Granite TTM-R3**), Multi-Agent Systems (**LangGraph**), and High-Throughput Sensor Processing.
+- 🎯 **Problem Solving:** Actively practicing core Data Structures & Algorithms patterns with optimized solutions.
 
 ---
 
-### 🌟 About Me & Core Focus
+### 🛠️ Tech Stack & Tools
 
-- 🧠 **Industrial & Agentic AI:** Architecting LangGraph orchestration layers, schema-aware tool registries, and evidence-driven autonomous data science agents with local LLMs (Ollama).
-- 📈 **Time-Series Forecasting & Anomaly Detection:** Fine-tuning foundation forecasting models (**IBM Granite TTM-R3**), anomaly detection on **2.3M+ sensor datasets** (Isolation Forest), and changepoint analysis.
-- ⚡ **Embedded Systems & Edge Vision:** Designed **AgriFlow** (awarded Indian Utility Patent) and **Retina AI** (assistive vision combining YOLOv8, OpenCV, and tactile feedback on ESP32/ESP8266).
-- 🚀 **Production-Ready Systems:** Engineering decoupled analytical engines with **FastAPI**, **Flask**, Docker, and SQL.
-
----
-
-### 🛠️ Technical Arsenal
-
-#### 💻 Programming & Databases
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-#### 🧠 Machine Learning & Time-Series
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/IBM_Granite_TTM--R3-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Granite" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/XGBoost-EB392E?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="SHAP" />
-</p>
-
-#### 🤖 Generative AI, Agents & Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Ollama_&_Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=target&logoColor=black" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/Tool_Calling_%26_MCP-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" alt="MCP" />
-</p>
-
-#### ⚙️ Data Engineering, Backend & Cloud
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-#### 🔌 Embedded & IoT Hardware
-<p>
-  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Sensors_&_Telemetry-4B0082?style=for-the-badge&logo=sensor&logoColor=white" alt="Sensors" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,flask,postgres,docker,git,linux,cpp,java,js&perline=12&theme=dark" alt="Skills" />
+</div>
 
 ---
 
-### 🚀 Flagship Projects & Research
+## 🚀 Projects & Repositories
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📈 Industrial Time-Series Forecasting</h3>
-      <p align="center"><b>IBM Granite TTM-R3 • PyTorch • FastAPI</b></p>
-      <ul>
-        <li>Fine-tuned <b>IBM Granite TTM-R3</b> for 15-minute industrial inflow forecasting across long prediction horizons (MAE, RMSE, MAPE).</li>
-        <li>Conducted error analysis on extreme inflow spikes and operational anomalies.</li>
-        <li>Built rolling forecast inference microservice via <b>FastAPI</b>.</li>
-      </ul>
-      <p align="center">
-        <code>Time-Series</code> • <code>Foundation Models</code> • <code>MLOps</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Industrial AI Agent Platform</h3>
-      <p align="center"><b>LangGraph • Local LLMs (Ollama) • SQL • FastAPI</b></p>
-      <ul>
-        <li>Orchestrated multi-step user queries across sensor analytics, reasoning, and tool-execution nodes.</li>
-        <li>Engineered schema-aware tools for SQL retrieval, dataset inspection, and deterministic calculations.</li>
-        <li>Decoupled mathematical execution from LLM reasoning for 100% computational integrity.</li>
-      </ul>
-      <p align="center">
-        <code>Agentic AI</code> • <code>LangGraph</code> • <code>Tool Calling</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌾 AgriFlow (Patented IoT System)</h3>
-      <p align="center"><b>Indian Utility Patent No. 202541061616 • ESP8266</b></p>
-      <ul>
-        <li>Sensor-driven automated irrigation system with live soil moisture telemetry and automated water pump triggers.</li>
-        <li>Awarded an official <b>Indian Utility Patent</b>.</li>
-        <li>Provides mobile app connectivity for real-time field status and manual overrides.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/B-LIPIKA/Agriflow-"><b>View Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👁️ Retina AI — Assistive Vision</h3>
-      <p align="center"><b>Team Lead • YOLOv8 • OpenCV • ESP32</b></p>
-      <ul>
-        <li>Computer-vision assistive device combining real-time object detection with tactile haptic vibration and voice feedback.</li>
-        <li>Bridges edge hardware with embedded deep learning for visually impaired navigation.</li>
-      </ul>
-      <p align="center">
-        <code>Assistive Tech</code> • <code>YOLOv8</code> • <code>Edge AI</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔬 AI Data Scientist Agent</h3>
-      <p align="center"><b>Automated EDA & ML Discovery • Scikit-Learn</b></p>
-      <ul>
-        <li>Automated dataset profiling, schema discovery, stationarity tests, and changepoint detection.</li>
-        <li>Python execution layer generating verifiable empirical metrics passed to reasoning agents.</li>
-      </ul>
-      <p align="center">
-        <code>Autonomous Agents</code> • <code>Auto-EDA</code> • <code>Python</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Industrial Vibration Anomaly Detection</h3>
-      <p align="center"><b>2.3M+ Rows • Isolation Forest • Parquet • Ollama</b></p>
-      <ul>
-        <li>Processed massive multi-sensor vibration datasets with statistical anomaly filtering and Isolation Forest.</li>
-        <li>Integrated local-LLM interpretation to explain sensor patterns and detect equipment failure early.</li>
-      </ul>
-      <p align="center">
-        <code>Big Data</code> • <code>Anomaly Detection</code> • <code>Sensors</code>
-      </p>
-    </td>
-  </tr>
-</table>
+### 1. 📈 [Industrial-Time-Series-Forecasting-TTM-R3](https://github.com/B-LIPIKA/Industrial-Time-Series-Forecasting-TTM-R3)
+> **Stack:** `Python` • `PyTorch` • `IBM Granite TTM-R3` • `Pandas` • `FastAPI`
+- **Overview:** End-to-end 15-minute industrial inflow forecasting foundation model fine-tuned on chronological sensor data.
+- **Key Results:** Achieved a **61.8% MAE reduction** compared to repeat-period baselines with automated surge spike error analysis.
+- **Serving:** Includes a production-ready **FastAPI** service with a rolling sensor buffer for real-time sub-15ms inference.
+- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/Industrial-Time-Series-Forecasting-TTM-R3)**
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 2. 🤖 [Industrial-AI-Agent-Platform](https://github.com/B-LIPIKA/Industrial-AI-Agent-Platform)
+> **Stack:** `Python` • `LangGraph` • `Local LLMs (Ollama)` • `SQL` • `FastAPI`
+- **Overview:** Evidence-driven industrial orchestration platform routing natural language inquiries across analytics and reasoning nodes.
+- **Architecture:** Strictly decouples deterministic sensor calculations (mean, std, ISO safety thresholds) from model reasoning to eliminate hallucinations.
+- **Features:** Built-in schema catalog inspection, dynamic read-only SQL querying, and engineering diagnostic reports.
+- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/Industrial-AI-Agent-Platform)**
+
+---
+
+### 3. 📊 [Industrial-Vibration-Anomaly-Detection](https://github.com/B-LIPIKA/Industrial-Vibration-Anomaly-Detection)
+> **Stack:** `Python` • `Scikit-learn` • `Apache Parquet` • `Isolation Forest` • `Ollama`
+- **Overview:** Predictive maintenance pipeline processing **2.3M+ records** of multi-axis vibration telemetry with automated telemetry quality audits.
+- **Machine Learning:** Unsupervised **Isolation Forest** with `RobustScaler` classifying anomaly harmonic signatures.
+- **Interactive Demos:** Features a 1-click **Google Colab Cloud Demo** and an **Interactive Web Dashboard**.
+- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/Industrial-Vibration-Anomaly-Detection)** • **[🚀 1-Click Colab Demo](https://colab.research.google.com/github/B-LIPIKA/Industrial-Vibration-Anomaly-Detection/blob/main/demo_notebook.ipynb)**
+
+---
+
+### 4. 🔬 [AI-Data-Scientist-Agent](https://github.com/B-LIPIKA/AI-Data-Scientist-Agent)
+> **Stack:** `Python` • `Pandas` • `Scikit-learn` • `Automated EDA` • `Statistical Testing`
+- **Overview:** Autonomous exploratory data analysis workflow transforming raw tabular datasets into comprehensive diagnostic reports.
+- **Statistical Suite:** Deterministic tools for trend slopes, split-half variance stationarity, CUSUM changepoints, Pearson correlation, and IQR outliers.
+- **Agent Intelligence:** Synthesizes empirical metrics into actionable preprocessing and model selection guidelines (e.g. LightGBM vs. XGBoost).
+- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/AI-Data-Scientist-Agent)**
+
+---
+
+### 5. 🧠 [LeetCode-Solutions](https://github.com/B-LIPIKA/LeetCode-Solutions)
+> **Stack:** `Python` • `Java` • `Data Structures & Algorithms` • `NeetCode 150`
+- **Overview:** Structured repository tracking daily Data Structures & Algorithms problem-solving across core programming patterns.
+- **Patterns Covered:** Arrays & Hashing, Two Pointers, Sliding Window, Binary Search, Trees, Graphs, and Dynamic Programming.
+- **Standards:** Every solution includes full problem statements, approach intuition, and asymptotic Time & Space complexity proofs.
+- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/LeetCode-Solutions)**
+
+---
+
+### 6. 🌾 [Agriflow-](https://github.com/B-LIPIKA/Agriflow-)
+> **Stack:** `Indian Utility Patent No. 202541061616` • `ESP8266` • `IoT Sensors` • `Embedded Systems`
+- **Overview:** IoT-powered smart irrigation system providing automated pump control and real-time soil condition telemetry.
+- **Distinction:** Officially awarded an **Indian Utility Patent** for hardware-driven agricultural resource management.
+- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/Agriflow-)**
+
+---
+
+### 7. ✍️ [Air-Board](https://github.com/B-LIPIKA/Air-Board)
+> **Stack:** `Python` • `OpenCV` • `Computer Vision` • `Motion Tracking`
+- **Overview:** Touchless digital board application that tracks fingertip gestures in real-time, enabling users to write and draw in the air.
+- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/Air-Board)**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B-LIPIKA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -207,25 +131,19 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-LIPIKA&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B-LIPIKA&theme=tokyonight&hide_border=true" width="97%" alt="Streak" />
 </div>
 
 ---
 
-### 📬 Connect With Me
-
 <div align="center">
 
-| Channel | Contact Info |
-| :--- | :--- |
-| **📄 Curriculum Vitae** | [📥 **Download Resume PDF**](https://raw.githubusercontent.com/B-LIPIKA/B-LIPIKA/main/Lipika_B_Resume.pdf) • [👁️ **View in Browser**](https://github.com/B-LIPIKA/B-LIPIKA/blob/main/Lipika_B_Resume.pdf) |
-| **💼 LinkedIn** | [linkedin.com/in/lipika2004](https://linkedin.com/in/lipika2004) |
-| **📧 Email** | [Kulal123lipika@gmail.com](mailto:Kulal123lipika@gmail.com) |
-| **🌐 Portfolio** | [b-lipika.github.io/Portfolio/](https://b-lipika.github.io/Portfolio/) |
-| **📱 Phone** | +91 96861 67453 |
-
-<br/>
-
 <i>"Engineering robust, evidence-grounded AI systems for industrial and real-world intelligence."</i>
+
+<br/><br/>
+
+<a href="https://raw.githubusercontent.com/B-LIPIKA/B-LIPIKA/main/Lipika_B_Resume.pdf" download><img src="https://img.shields.io/badge/Download_Resume-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+<a href="https://linkedin.com/in/lipika2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:Kulal123lipika@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
