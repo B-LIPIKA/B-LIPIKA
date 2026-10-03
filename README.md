@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/lipika2004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/B-LIPIKA/LeetCode-Solutions">
+  <a href="https://github.com/B-LIPIKA/leetcode_learning">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://b-lipika.github.io/Portfolio/" target="_blank">
@@ -99,12 +99,12 @@
 
 ---
 
-### 5. 🧠 [LeetCode-Solutions](https://github.com/B-LIPIKA/LeetCode-Solutions)
-> **Stack:** `Python` • `Java` • `Data Structures & Algorithms` • `NeetCode 150`
-- **Overview:** Structured repository tracking daily Data Structures & Algorithms problem-solving across core programming patterns.
-- **Patterns Covered:** Arrays & Hashing, Two Pointers, Sliding Window, Binary Search, Trees, Graphs, and Dynamic Programming.
-- **Standards:** Every solution includes full problem statements, approach intuition, and asymptotic Time & Space complexity proofs.
-- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/LeetCode-Solutions)**
+### 5. 🧠 [leetcode_learning](https://github.com/B-LIPIKA/leetcode_learning)
+> **Stack:** `Data Structures & Algorithms` • `LeetHub v2 Auto-Sync` • `Python` • `Java`
+- **Overview:** Automated problem-solving repository tracking real-time LeetCode submissions synced via LeetHub v2.
+- **Scope:** Optimized solutions covering dynamic programming, graph traversal, sliding window, and core data structures.
+- **Highlights:** Direct sync with active LeetCode submissions, problem descriptions, and space/time complexity notes.
+- 👉 **[Explore Repository »](https://github.com/B-LIPIKA/leetcode_learning)**
 
 ---
 
